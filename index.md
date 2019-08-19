@@ -183,7 +183,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete this <a href="https://docs.google.com/forms/d/e/1FAIpQLScbdbbBOjWZP46_svbiYofxa_xfl2hBP3aMFfJJsh0gtAfOTA/viewform?usp=sf_link">survey</a> after the workshop.</p>
+<p>Please be sure to complete this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXJNQifgvwYqE3Sp_M-UmjGg-mmmKMOj5i1SfuJYgUtmPY8Q/viewform">survey</a> after the workshop.</p>
 <!--{% if site.carpentry == "swc" %} 
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
