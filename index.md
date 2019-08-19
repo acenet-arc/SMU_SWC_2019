@@ -6,7 +6,7 @@ address: "The Atrium Room 305, 923 Robie Street, Halifax, NS B3H 3C3"      # ful
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "44.632115,-63.581411"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Sep. 13, 20, 27, and Oct. 4"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "2019 Sep. 13, 20, 27, and Oct. 4"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am-12:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-09-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-10-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
